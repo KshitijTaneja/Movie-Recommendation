@@ -1,0 +1,23 @@
+.g{
+ display: flex;
+ align-items: center;
+ flex-wrap: wrap;
+
+}
+.cardcompi{
+  
+  width: 250px;
+  margin-left: 5rem;
+
+}
+
+.custom-image img{
+  height: 270px;
+  padding: 1.4rem;
+  width: 230px;
+  align-content: center;
+ 
+ 
+}
+
+
